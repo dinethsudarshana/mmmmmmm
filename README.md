@@ -4,7 +4,7 @@
 
 <p align ="center"><b> A WhatsApp based third party application that provide many services with a real-time automated conversational experience. </b></p>
 
-> ! SPECIFICATION !
+> SPECIFICATION
 
 - [x] Yt Song Downloader
 - [x] Yt Video Downloader
