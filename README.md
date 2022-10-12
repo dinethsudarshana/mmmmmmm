@@ -6,12 +6,12 @@
 
 >                                                                SPECIFICATION
 
-- [x] Yt Song Downloader
-- [x] Yt Video Downloader
-- [x] Insta Audio / Video Downloader
-- [x] Fb Audio / Video Downloader
-- [x] Spotify Song Downloader /  Search
-- [x] Playstore Apk Downloade /  Search
-- [x] Sticker Maker
-- [x] Video To Audio Converter
+- [x] <b>Yt Song Downloader</b>
+- [x] <b>Yt Video Downloader</b>
+- [x] <b>Insta Audio / Video Downloader</b>
+- [x] <b>Fb Audio / Video Downloader</b>
+- [x] <b>Spotify Song Downloader /  Search</b>
+- [x] <b>Playstore Apk Downloade /  Search</b>
+- [x] <b>Sticker Maker</b>
+- [x] <b>Video To Audio Converter</b>
 
