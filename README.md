@@ -2,7 +2,7 @@
 
 >                                                              WHAT IS COBRA-MD ?
 
-<p align ="center"> A WhatsApp based third party application that provide many services with a real-time automated conversational experience. </p>
+<p align ="center"><b> A WhatsApp based third party application that provide many services with a real-time automated conversational experience. </b></p>
 
 >                                                              ! SPECIFICATION !
 
