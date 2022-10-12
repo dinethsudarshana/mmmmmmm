@@ -1,1 +1,1 @@
-<h1> **COBRA - MD** </h1>
+<strong> COBRA - MD </strong>
