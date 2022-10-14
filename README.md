@@ -1,10 +1,10 @@
 <h1 align="center"> COBRA - MD  ❤️ User Bot For Whatsapp </h1>
 
->                                                              WHAT IS COBRA-MD ?
+>           WHAT IS COBRA-MD ?
 
 <p align ="center"><b> A WhatsApp based third party application that provide many services with a real-time automated conversational experience. </b></p>
 
->                                                                SPECIFICATION
+>           SPECIFICATION
 
 - [x] <b>Yt Song Downloader</b>
 - [x] <b>Yt Video Downloader</b>
@@ -15,6 +15,6 @@
 - [x] <b>Sticker Maker</b>
 - [x] <b>Video To Audio Converter</b>
 
-:ballot_box_with_check:Male :black_square_button:Female :black_square_button: Not to disclose
+
 
 
