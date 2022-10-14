@@ -1,5 +1,5 @@
 <h1 align="center"> COBRA - MD  ❤️ User Bot For Whatsapp </h1>
-<img src="https://i.hizliresim.com/9tg3x8j.jpg" height="250px" width="250px">
+<img src="https://i.hizliresim.com/9tg3x8j.jpg" height="750px" width="750px" align="center">
 
 >           WHAT IS COBRA-MD ?
 
