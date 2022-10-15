@@ -8,6 +8,16 @@
 
 Coded By  Sisula welgamage | 2022/08/08 Main Release | Docker Image : sisula/whatsapp_bot | Host: AWS(Heroku) OR etc. | Terminal: Node 
 */
+/*
+░█████╗░░█████╗░██████╗░██████╗░░█████╗░░░░░░░███╗░░░███╗██████╗░
+██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗░░░░░░████╗░████║██╔══██╗
+██║░░╚═╝██║░░██║██████╦╝██████╔╝███████║█████╗██╔████╔██║██║░░██║
+██║░░██╗██║░░██║██╔══██╗██╔══██╗██╔══██║╚════╝██║╚██╔╝██║██║░░██║
+╚█████╔╝╚█████╔╝██████╦╝██║░░██║██║░░██║░░░░░░██║░╚═╝░██║██████╔╝
+░╚════╝░░╚════╝░╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝░░░░░░╚═╝░░░░░╚═╝╚═════╝░ BY SISULA WELGAMAGE
+
+Coded By  Sisula welgamage | 2022/08/08 Main Release | Docker Image : sisula/whatsapp_bot | Host: AWS(Heroku) OR etc. | Terminal: Node 
+*/
 
 const fs = require("fs");
 const path = require("path");
@@ -86,22 +96,6 @@ async function cobrabot () {
         console.log(
             '✅ පුරනය වීම සාර්ථකයි!'// ''
         );
-
-        console.log(
-            '⬇️ බාහිර Plugin ස්ථාපනය කිරීම ...')//'✅ INSTALLING EXTERNEL PLUGINS... PLEASE WAIT...'
-
-        var plugins = await plugindb.PluginDB.findAll();
-        plugins.map(async (plugin) => {
-            if (!fs.existsSync('./plugins/' + plugin.dataValues.name + '.js')) {
-                console.log(plugin.dataValues.name);
-                var response = await got(plugin.dataValues.url);
-                if (response.statusCode == 200) {
-                    fs.writeFileSync('./plugins/' + plugin.dataValues.name + '.js', response.body);
-                    require('./plugins/' + plugin.dataValues.name + '.js');
-                }     
-            }
-        });
-
         console.log(
             '⬇️  Plugin ස්ථාපනය කිරීම ...'// '✅ INSTALLING PLUGINS... PLEASE WAIT..'
         );
