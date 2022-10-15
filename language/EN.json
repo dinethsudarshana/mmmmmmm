@@ -1,0 +1,15 @@
+{
+    "LANGCODE": "en",
+    "AUTHOR": "sisula",
+    "STRINGS": {
+        "admin": {
+            "ADMIN_USER": "*User Is a Admin*",
+            "BANNED": "kicked out of the group!",
+            "IM_NOT_ADMIN": "*I am not admin in this group !*",
+            "GIVE_ME_USER": "*Please... Give me a user !*",
+            "ADDED": "added to the group!!",
+            "E_USER": "*🧜‍♀️💬  Enter the number to be added to the group with the country code without + mark and space.*",
+            "ERR_ADD": "```Please Check The Number And Try Agin Later !!```"
+        }
+    }  
+}
